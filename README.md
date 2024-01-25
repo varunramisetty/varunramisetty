@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **mulesoft & salesforce**
 
-- 📫 How to reach me **jayavarunnaidu@gmail.com**
+- 📫 How to reach me **jayavarun@apicentrics.com**
 
 - ⚡ Fun fact **Smelling apples or bananas can help you lose weight **
 
